@@ -70,3 +70,14 @@ Engaged in amateur-level development for personal and freelance needs. Easy to l
     }
 
 ```
+
+> #### **Experience:**
+
+   Previously I developed sites on Joomla, now I'm a freelancer, creating masks and games for Instagram (Spark ar Studio). To automate personal work I use Python (Jupyter notebook).
+
+> #### **Education:**
+
+ Plekhanov Russian University of Economics Minsk branch (Applied Computer Science in Management)  2004-2009 
+
+> #### **English:** 
+A1-A2
